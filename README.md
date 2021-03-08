@@ -1,2 +1,2 @@
 # Hello-World
-![](C:\Users\dell\AndroidStudioProjects\task1\Hello-World)
+<img src="helloworld.png" width="250" height="400">
